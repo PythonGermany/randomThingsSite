@@ -7162,8 +7162,8 @@ input, select, textarea {
 
 			.gallery.lightbox .modal .inner img {
 				display: block;
-				max-width: 90vw;
-				max-height: 85vh;
+				max-width: 95vw;
+				max-height: 95vh;
 				box-shadow: 0 1rem 3rem 0 rgba(0, 0, 0, 0.35);
 			}
 
